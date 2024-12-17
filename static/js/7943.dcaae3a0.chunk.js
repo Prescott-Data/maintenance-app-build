@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[7943],{7943:function(e,s,d){d.r(s),s.default={legendsOptionsFooter:"LegendSetField_legendsOptionsFooter__sImkA",legendsPickedHeader:"LegendSetField_legendsPickedHeader__gP48Q"}}}]);
+//# sourceMappingURL=7943.dcaae3a0.chunk.js.map

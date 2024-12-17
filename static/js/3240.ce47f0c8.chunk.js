@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[3240],{13240:function(e,l,o){o.r(l),l.default={categoryComboSelect:"CategoryComboField_categoryComboSelect__X790g"}}}]);
+//# sourceMappingURL=3240.ce47f0c8.chunk.js.map

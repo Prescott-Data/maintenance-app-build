@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/7200.2c906bd8.chunk.js","mappings":"kIACA,WAAgB,sBAAwB,2C","sources":["webpack://@dhis2/app-shell/./src/D2App/pages/dataElements/fields/DomainField.module.css?2da9"],"sourcesContent":["// extracted by mini-css-extract-plugin\nexport default {\"domainTypeRadioButton\":\"DomainField_domainTypeRadioButton__J0ngo\"};"],"names":[],"sourceRoot":""}

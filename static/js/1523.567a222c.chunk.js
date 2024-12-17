@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[1523],{11523:function(_,s,e){e.r(s),s.default={form:"Edit_form__hRrRu",formActions:"Edit_formActions__HyTpY"}}}]);
+//# sourceMappingURL=1523.567a222c.chunk.js.map

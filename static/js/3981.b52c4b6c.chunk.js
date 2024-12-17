@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[3981],{23981:function(e,l,s){s.r(l),s.d(l,{CompulsoryField:function(){return p}});var t=s(28014),o=s(52791),n=s(72176),a=s(50445);function p(){return n.createElement(a.D0,{component:o.o,dataTest:"dataelementsformfields-compulsory",name:"compulsory",label:t.A.t("Compulsory"),type:"checkbox",validateFields:[]})}}}]);
+//# sourceMappingURL=3981.b52c4b6c.chunk.js.map

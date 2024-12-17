@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[7200],{57200:function(e,a,i){i.r(a),a.default={domainTypeRadioButton:"DomainField_domainTypeRadioButton__J0ngo"}}}]);
+//# sourceMappingURL=7200.2c906bd8.chunk.js.map

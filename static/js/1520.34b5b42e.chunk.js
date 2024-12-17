@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[1520],{91520:function(e,t,n){n.r(t),t.default={selectedOrgUnitInfo:"OrganisationUnitSelector_selectedOrgUnitInfo__CWLRb",selectedOrgUnitBox:"OrganisationUnitSelector_selectedOrgUnitBox__Lli-s"}}}]);
+//# sourceMappingURL=1520.34b5b42e.chunk.js.map

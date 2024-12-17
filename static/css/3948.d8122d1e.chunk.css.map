@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/3948.d8122d1e.chunk.css","mappings":"AAAA,qDACI,WACJ","sources":["D2App/pages/dataElements/fields/OptionSetCommentField.module.css"],"sourcesContent":[".optionSetCommentSelect {\n    width: 400px;\n}\n"],"names":[],"sourceRoot":""}

@@ -1,20 +1,23 @@
 {
+  "app_hub_id": "3c6d0723-904c-4c7a-bbd6-35f3c3aa356b",
+  "appType": "APP",
+  "short_name": "maintenance-preview",
+  "name": "Maintenance (Preview)",
+  "description": "",
+  "version": "0.19.4",
   "launch_path": "index.html",
   "default_locale": "en",
   "activities": {
     "dhis": {
-      "href": ".."
+      "href": "*"
     }
   },
-  "appType": "APP",
-  "name": "Maintenance app",
-  "version": "32.33.0",
-  "description": "DHIS2 Maintenance app",
   "icons": {
-    "48": "icon.png"
+    "48": "dhis2-app-icon.png"
   },
-  "developer": {
-    "name": "HISP"
-  },
-  "manifest_generated_at": "Sun Nov 10 2024 01:49:18 GMT+0000 (Coordinated Universal Time)"
+  "manifest_generated_at": "Tue Dec 17 2024 12:05:29 GMT+0000 (Coordinated Universal Time)",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "scope": "."
 }

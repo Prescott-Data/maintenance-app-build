@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[5920],{43539:function(e,a,l){l.r(a),l.d(a,{createJsonPatchOperations:function(){return t}});var n=l(68707),s=l.n(n);function t(e){let{dirtyFields:a,originalValue:l,values:n}=e;return Object.keys(a).map((e=>({op:s()(e,l)?"replace":"add",path:`/${e.replace(/[.]/g,"/")}`,value:s()(e,n)||""})))}}}]);
+//# sourceMappingURL=5920.a6b70bc3.chunk.js.map

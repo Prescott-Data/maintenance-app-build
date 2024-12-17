@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[7091],{77091:function(t,s,i){i.r(s),s.default={expandButton:"OrganisationUnitList_expandButton__AjbgN",listDetailsWrapper:"OrganisationUnitList_listDetailsWrapper__eX9Q3"}}}]);
+//# sourceMappingURL=7091.d01124ff.chunk.js.map

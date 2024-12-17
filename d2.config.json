@@ -1,0 +1,12 @@
+{
+  "id": "3c6d0723-904c-4c7a-bbd6-35f3c3aa356b",
+  "type": "app",
+  "title": "Maintenance (Preview)",
+  "name": "maintenance-preview",
+  "minDHIS2Version": "2.41",
+  "version": "0.19.4",
+  "description": "",
+  "entryPoints": {
+    "app": "index.html"
+  }
+}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[6827],{36827:function(e,a,i){i.r(a),a.default={categoriesFieldWrapper:"CategoryCombo_categoriesFieldWrapper__00djY",categoriesNoticesWrapper:"CategoryCombo_categoriesNoticesWrapper__R4Myf",identicalCategoriesList:"CategoryCombo_identicalCategoriesList__chLzG"}}}]);
+//# sourceMappingURL=6827.9ee438e7.chunk.js.map

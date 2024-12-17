@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[7921],{57921:function(e,t,a){a.r(t),t.default={dataElementsOptionsFooter:"DataElementGroupsField_dataElementsOptionsFooter__l9fmA",dataElementsPickedHeader:"DataElementGroupsField_dataElementsPickedHeader__uWdRL"}}}]);
+//# sourceMappingURL=7921.ad890de3.chunk.js.map

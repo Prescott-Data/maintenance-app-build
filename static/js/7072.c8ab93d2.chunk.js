@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[7072],{74691:function(e,t,l){l.r(t),t.default={optionSetSelect:"OptionSetField_optionSetSelect__4gFHR"}}}]);
+//# sourceMappingURL=7072.c8ab93d2.chunk.js.map

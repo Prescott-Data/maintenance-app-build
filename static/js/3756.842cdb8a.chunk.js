@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[3756],{33756:function(e,n,a){a.r(n),a.d(n,{DataDimensionField:function(){return d}});var t=a(28014),i=a(52791),s=a(72176),l=a(50445);function d(){return s.createElement(l.D0,{component:i.o,dataTest:"dataelementsformfields-datadimension",name:"dataDimension",label:t.A.t("Data dimension"),type:"checkbox",validateFields:[]})}}}]);
+//# sourceMappingURL=3756.842cdb8a.chunk.js.map

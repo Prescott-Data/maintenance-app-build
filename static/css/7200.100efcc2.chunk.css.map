@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/7200.100efcc2.chunk.css","mappings":"AAAA,+CACI,mBACJ,CAEA,oFACI,8BACJ","sources":["D2App/pages/dataElements/fields/DomainField.module.css"],"sourcesContent":["label.domainTypeRadioButton {\n    display: inline-flex;\n}\n\n.domainTypeRadioButton + .domainTypeRadioButton {\n    margin-left: var(--spacers-dp8);\n}\n"],"names":[],"sourceRoot":""}

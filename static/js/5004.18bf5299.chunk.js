@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[5004],{85004:function(e,i,n){n.r(i),n.d(i,{ZeroIsSignificantField:function(){return r}});var t=n(28014),a=n(52791),s=n(72176),l=n(50445);function r(){return s.createElement(l.D0,{component:a.o,dataTest:"formfields-zeroissignificant",name:"zeroIsSignificant",label:t.A.t("Store zero data values"),type:"checkbox",validateFields:[]})}}}]);
+//# sourceMappingURL=5004.18bf5299.chunk.js.map

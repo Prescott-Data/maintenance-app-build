@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/7414.33002df9.chunk.css","mappings":"AAAA,iBACI,8BAA+B,CAC/B,2BAA4B,CAC5B,kCACJ","sources":["D2App/pages/dataElements/New.module.css"],"sourcesContent":[".form {\n    background: var(--colors-white);\n    padding: var(--spacers-dp16);\n    padding-bottom: var(--spacers-dp32);\n}\n"],"names":[],"sourceRoot":""}

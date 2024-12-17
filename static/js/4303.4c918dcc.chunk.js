@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[4303],{44303:function(t,r,e){e.r(r),e.d(r,{dataElementGroupSchema:function(){return s}});var i=e(73044);const s=i.z.object({name:i.z.string().trim(),shortName:i.z.string().trim(),code:i.z.string().trim(),description:i.z.string().trim(),dataElements:i.z.array(i.z.object({id:i.z.string()}))}).partial()}}]);
+//# sourceMappingURL=4303.4c918dcc.chunk.js.map

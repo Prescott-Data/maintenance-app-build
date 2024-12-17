@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[1612],{31612:function(e,i,l){l.r(i),i.default={coordinateField:"GeometryFields_coordinateField__jZie1"}}}]);
+//# sourceMappingURL=1612.c2e2dc5e.chunk.js.map

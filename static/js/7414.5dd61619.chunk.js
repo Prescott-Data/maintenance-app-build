@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_dhis2_app_shell=self.webpackChunk_dhis2_app_shell||[]).push([[7414],{7414:function(e,s,_){_.r(s),s.default={form:"New_form__hR0MF"}}}]);
+//# sourceMappingURL=7414.5dd61619.chunk.js.map
